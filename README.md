@@ -1,5 +1,5 @@
 # Inteligencia Artificial
-Repositorio para trabajos de la material Inteligencia Artificial UNLaM
+Repositorio para trabajos practicos de la material Inteligencia Artificial de la Universidad Nacional de La Matanza
 
 ## Información de la Asignatura
 * **Materia**: Inteligencia Artificial (3664)
@@ -7,19 +7,21 @@ Repositorio para trabajos de la material Inteligencia Artificial UNLaM
 * **Año**: 2025
 
 ## Trayecto Infraestructura
-* **Año académico**: Cuarto año
+* **Año académico**: Cuarto Año - Segundo Cuatrimestre
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
 * **Modalidad**: Virtual
-
+* **Correlativas anteriores**
+  * Probabilidad y Estadística (3651)
+  * Paradigmas de Programación (3646)
+    
 ## Integrantes
-| Nombre | DNI |
+| Nombre/s | Apellido/s |
 |--|--|
-| My, Tomás | - |
-| Rodríguez, Emanuel Antonio | - |
-| Romano, Jorge Darío | - |
-| Sandoval Vasquez, Juan Leandro | - |
-| Sierra, Nicolas Federico | - |
+| Emanuel Antonio | Rodríguez |
+| Jorge Darío | Romano |
+| Juan Leandro | Sandoval Vasquez |
+| Nicolas Federico | Sierra |
 
 ## Docentes
 * Dr Jorge Ierache
