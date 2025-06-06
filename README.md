@@ -17,7 +17,7 @@ Repositorio para trabajos de la material Inteligencia Artificial de la Universid
     
 ## Integrantes
 | Nombre/s | Apellido/s |
-|--|
+|--|--|
 | Emanuel Antonio | Rodríguez |
 | Jorge Darío | Romano |
 | Juan Leandro | Sandoval Vasquez |
