@@ -16,13 +16,12 @@ Repositorio para trabajos de la material Inteligencia Artificial de la Universid
   * Paradigmas de Programación (3646)
     
 ## Integrantes
-| Nombre |
+| Nombre/s | Apellido/s |
 |--|
-| My, Tomás |
-| Rodríguez, Emanuel Antonio |
-| Romano, Jorge Darío |
-| Sandoval Vasquez, Juan Leandro |
-| Sierra, Nicolas Federico |
+| Emanuel Antonio | Rodríguez |
+| Jorge Darío | Romano |
+| Juan Leandro | Sandoval Vasquez |
+| Nicolas Federico | Sierra |
 
 ## Docentes
 * Dr Jorge Ierache
