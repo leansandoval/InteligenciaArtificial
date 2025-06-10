@@ -24,6 +24,6 @@ Repositorio para trabajos practicos de la material Inteligencia Artificial de la
 | Nicolas Federico | Sierra |
 
 ## Docentes
-* Dr Jorge Ierache
-* Ing. Martin Becerra
+* Dr. Jorge Ierache
+* Dr. Martin Becerra
 * Ing. Diego Sanz
