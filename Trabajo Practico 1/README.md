@@ -1,35 +1,5 @@
-# Inteligencia Artificial
-Repositorio para trabajos practicos de la material Inteligencia Artificial de la Universidad Nacional de La Matanza
-
-## Información de la Asignatura
-* **Materia**: Inteligencia Artificial (3664)
-* **Cuatrimestre**: Primer Cuatrimestre
-* **Año**: 2025
-
-## Trayecto Infraestructura
-* **Año académico**: Cuarto Año - Segundo Cuatrimestre
-* **Carga horaria semanal**: 4 hs
-* **Carga horaria total**: 64 hs
-* **Modalidad**: Virtual
-* **Correlativas anteriores**
-  * Probabilidad y Estadística (3651)
-  * Paradigmas de Programación (3646)
-    
-## Integrantes
-| Nombre/s | Apellido/s | DNI |
-|--|--|--|
-| Emanuel Antonio | Rodríguez | 44.689.274 |
-| Jorge Darío | Romano | 33.901.015 |
-| Juan Leandro | Sandoval Vasquez | 41.548.235 |
-| Nicolas Federico | Sierra | 28.642.247 |
-
-## Docentes
-* Dr. Jorge Ierache
-* Dr. Martin Becerra
-* Ing. Diego Sanz
-
-## Trabajo Práctico - Ingeniería de Conocimiento, Metodología IDEAL y Sistemas Expertos
-### Enunciado
+# Trabajo Práctico - Ingeniería de Conocimiento, Metodología IDEAL y Sistemas Expertos
+## Enunciado
 Un equipo de ingenieros desea diseñar una base de conocimiento para el dominio de gestión de personal médico para que un sistema experto asista en el seguimiento del bienestar del personal médico.
 Para ello, se realizó una entrevista con expertos y se dispone de un proceso para lograr un sistema integral dividido en fases estratégicas con diferentes criterios a nivel personal y organizacional:
 
@@ -41,7 +11,7 @@ Para ello, se realizó una entrevista con expertos y se dispone de un proceso pa
 
 En una primera versión se desea enfocarse en el bienestar y desarrollo del individuo  en alguna de las siguientes áreas:
 
-#### Detección y Prevención Temprana de factores de riesgo 
+### Detección y Prevención Temprana de factores de riesgo 
 **Objetivo**: Identificar y mitigar factores de riesgo para el bienestar del personal médico.
 
 1. **Regla de detección temprana de estrés**
@@ -59,7 +29,7 @@ En una primera versión se desea enfocarse en el bienestar y desarrollo del indi
  * ENTONCES recomendar programa de actividad física moderada
 * Acción: Incluir en programa de fitness hospitalario.
 
-#### Intervención y Soporte Activo 
+### Intervención y Soporte Activo 
 **Objetivo**: Proporcionar intervenciones directas y apoyo continuo para mejorar el bienestar.
 
 1. **Regla de reconocimiento automático**
@@ -77,7 +47,7 @@ En una primera versión se desea enfocarse en el bienestar y desarrollo del indi
  * ENTONCES priorizar capacitación actualizada 
 * **Acción**: Inscribir en cursos relevantes.
 
-#### Consolidación y Mejora Continua 
+### Consolidación y Mejora Continua 
 **Objetivo**: Consolidar los avances y asegurar la mejora continua del bienestar. 
 1. Regla de soporte emocional 
  * SI (empleado con quejas recurrentes sobre ambiente laboral)
@@ -97,7 +67,7 @@ SI (empleado con evaluaciones negativas recurrentes) ENTONCES activar plan de me
 retroalimentación regular 
 ● Acción: Establecer reuniones periódicas con el supervisor. 
 
-### Consigna
+## Consigna
 A partir del enunciado proporcionado elegir un área y profundizar en el tema, realizar la conceptualización que se realice un razonamiento entre 2-3 fases, formalización y desarrollo completo del caso (Opcional). Se deberá entregar un zip con el documento PDF, presentación y el proyecto Drools(Opcional) con el siguiente formato:
 Documentación:
 * Nombre del archivo de la documentación: [Numero de materia]_IA_C1_equipo_x_trabajo_practico_INCO.pdf
