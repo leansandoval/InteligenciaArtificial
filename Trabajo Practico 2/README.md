@@ -1,11 +1,14 @@
 # Trabajo Práctico Aprendizaje de Máquina 
 ## Objetivo del Proyecto 
 El objetivo de este proyecto integrador es proporcionar a los alumnos una experiencia práctica y completa en el campo de Aprendizaje de Máquina. A lo largo de tres etapas, se explorarán diferentes aspectos clave de este campo, desde el análisis exploratorio de datos y la visualización hasta la construcción de modelos de regresión y clasificación. 
+
 Podrán considerar como referencia para el desarrollo del TP los siguientes [ejemplos](https://drive.google.com/drive/folders/18FVsONBONTLecsZ2PpHuBOUcW9_055U_?usp=sharing). 
+
 En estos ejemplos se detallan un workflow de ML para resolver un problema de Regresión y otro para Clasificación. Además, hay dos ejemplos adicionales para c/caso. **No se podrá utilizar ninguno de los datasets que se usan en la Cátedra como ejemplos**. 
 
 ## Integrantes
 Este trabajo práctico integrador se llevará a cabo en grupos de **_5 personas_**, donde cada miembro tendrá la oportunidad de colaborar y aportar sus habilidades y conocimientos en el campo del Aprendizaje de Máquina.
+
 Es importante que todos los integrantes participen en la realización del trabajo práctico, ya que en las instancias evaluatorias se preguntará sobre la aplicación de los diferentes conceptos y temas vistos en clase sobre esta actividad práctica.
 
 ## Dataset 
@@ -23,11 +26,14 @@ Como recomendación, pueden utilizar:
 
 # Entrega 1 - Etapa Pre-Procesamiento de Datos 
 Entrega de un Notebook (Archivo Google Colab) que cumpla con los aspectos solicitados a través de Plataforma MIeL. 
+
 El objetivo de esta primera entrega es que los participantes adquieran habilidades en la etapa de Pre-Procesamiento de Datos de la Metodología CRISP DM. 
 
 ## Actividades
 Realizar en un archivo de Google Colab **(UNO POR CADA DATASET SELECCIONADO)**, **un proceso de análisis exploratorio de datos**, **visualización de datos**, **manejo de datos faltantes** y **valores atípicos (outliers)**.
+
 Indicar **(COMO SECCIONES DE TEXTO)** las **decisiones tomadas en la elección de cada técnica** para cada una de los procesos solicitados y las **conclusiones obtenidas por el grupo luego de analizar los resultados obtenidos**.
+
 A continuación, brindamos detalles de las actividades a realizar por cada proceso. 
 
 Procesos:
