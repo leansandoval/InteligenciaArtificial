@@ -53,7 +53,9 @@ Procesos:
 
 # Entrega 2 - Implementación de Modelos 
 Entrega de un Notebook (Archivo Google Colab) que cumpla con los aspectos solicitados.
+
 En la segunda entrega, el objetivo es que los participantes desarrollen habilidades en la construcción de modelos predictivos. Se trabajarán los modelos de regresión y clasificación, permitiendo a los participantes comprender y aplicar estos algoritmos para resolver problemas específicos.
+
 **ACLARACIÓN: DEBEN SELECCIONAR UN MODELO PARA TRABAJAR CON EL DATASET DE CLASIFICACIÓN Y OTRO MODELO PARA TRABAJAR CON EL DATASET DE REGRESIÓN. UTILIZAR UN ARCHIVO DE GOOGLE COLAB DIFERENTE POR CADA APLICACIÓN DE MODELO.**
 
 Actividades 
