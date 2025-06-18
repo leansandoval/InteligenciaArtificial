@@ -15,59 +15,59 @@ En una primera versión se desea enfocarse en el bienestar y desarrollo del indi
 **Objetivo**: Identificar y mitigar factores de riesgo para el bienestar del personal médico.
 
 1. **Regla de detección temprana de estrés**
- * SI (empleado con más de 3 turnos nocturnos consecutivos + indicadores de fatiga > 70%) 
- * ENTONCES recomendar pausa activa de 30 minutos 
+ * `SI (empleado con más de 3 turnos nocturnos consecutivos + indicadores de fatiga > 70 %)`
+ * `ENTONCES recomendar pausa activa de 30 minutos`
 * **Acción**: Notificar al supervisor para ajustar horarios.
 
 2. **Regla de apoyo psicológico**
-  * SI (empleado con historial de salud mental + reciente pérdida personal)
-  * ENTONCES ofrecer sesiones de terapia confidencial 
+  * `SI (empleado con historial de salud mental + reciente pérdida personal)`
+  * `ENTONCES ofrecer sesiones de terapia confidencial`
   * **Acción**: Asignar psicólogo especializado.
 
 3. **Regla de bienestar físico**
-  * SI (empleado con IMC >30 + sedentarismo >4h/día)
-  * ENTONCES recomendar programa de actividad física moderada
+  * `SI (empleado con IMC >30 + sedentarismo > 4 h / día)`
+  * `ENTONCES recomendar programa de actividad física moderada`
   * Acción: Incluir en programa de fitness hospitalario.
 
 ### Intervención y Soporte Activo 
 **Objetivo**: Proporcionar intervenciones directas y apoyo continuo para mejorar el bienestar.
 
 1. **Regla de reconocimiento automático**
-  * SI (empleado con logros destacados + evaluación positiva)
-  * ENTONCES otorgar incentivo económico o reconocimiento público 
+  * `SI (empleado con logros destacados + evaluación positiva)`
+  * `ENTONCES otorgar incentivo económico o reconocimiento público`
   * **Acción**: Notificar a Recursos Humanos para premiar.
   
 2. **Regla de gestión de turnos**
-  * SI (empleado con más de 40 horas semanales + ausencia reciente por enfermedad)
-  * ENTONCES reevaluar carga laboral 
+  * `SI (empleado con más de 40 horas semanales + ausencia reciente por enfermedad)`
+  * `ENTONCES reevaluar carga laboral`
   * **Acción**: Revisar y ajustar horarios según necesidad.
   
 3. **Regla de capacitación continua**
-  * SI (empleado con certificación vencida + área crítica)
-  * ENTONCES priorizar capacitación actualizada 
+  * `SI (empleado con certificación vencida + área crítica)`
+  * `ENTONCES priorizar capacitación actualizada`
   * **Acción**: Inscribir en cursos relevantes.
 
 ### Consolidación y Mejora Continua 
 **Objetivo**: Consolidar los avances y asegurar la mejora continua del bienestar.
 
 1. **Regla de soporte emocional**
-  * SI (empleado con quejas recurrentes sobre ambiente laboral)
-  * ENTONCES activar mediación con supervisor 
+  * `SI (empleado con quejas recurrentes sobre ambiente laboral)`
+  * `ENTONCES activar mediación con supervisor`
   * **Acción**: Facilitar diálogo constructivo. 
 
 2. **Regla de equilibrio vida-trabajo**
-  * SI (empleado con más de 2 años sin vacaciones + carga laboral alta)
-  * ENTONCES recomendar plan de vacaciones 
+  * `SI (empleado con más de 2 años sin vacaciones + carga laboral alta)`
+  * `ENTONCES recomendar plan de vacaciones`
   * **Acción**: Asignar asesor para planificación.
 
 3. **Regla de apoyo tecnológico**
-  * SI (empleado con dificultades en herramientas digitales + bajo rendimiento)
-  * ENTONCES ofrecer tutoría personalizada
+  * `SI (empleado con dificultades en herramientas digitales + bajo rendimiento)`
+  * `ENTONCES ofrecer tutoría personalizada`
   * **Acción**: Asignar mentor tecnológico.
 
 4. **Regla de feedback continuo**
-  * SI (empleado con evaluaciones negativas recurrentes)
-  * ENTONCES activar plan de mejora con retroalimentación regular.
+  * `SI (empleado con evaluaciones negativas recurrentes)`
+  * `ENTONCES activar plan de mejora con retroalimentación regular.`
   * **Acción**: Establecer reuniones periódicas con el supervisor.
 
 ## Consigna
