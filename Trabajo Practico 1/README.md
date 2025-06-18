@@ -84,3 +84,54 @@ Nombre zip: Numero_materia_IA_C1_trabajo_practico_INCO.zip
   * Documentación.
   * Código Fuente.
   * Presentación.
+
+El **documento** debe ser entregado de manera **grupal** según el cronograma del curso con **la siguiente estructura**:
+
+* Carátula 
+* Índice 
+* Problema por resolver 
+  * Enunciado 
+  * Atributo Meta definido. 
+* Conceptualización 
+  * Etapa de Análisis 
+    * Conocimiento Fáctico. 
+      * Diccionario de conceptos. 
+      * Tabla CAV. 
+      * Relaciones entre conceptos. 
+    * Conocimiento Táctico. 
+      * Tabla de decisión O Seudoreglas (Formato tabular sintaxis Objeto.atributo = valor). 
+      * Fórmulas (Si se utilizaron). 
+    * Conocimiento Estratégico. 
+      * Árbol de descomposición funcional. 
+  * Etapa de Síntesis 
+    * Modelo estático. 
+      * Descripción detallada de atributos. 
+    * Modelo dinámico. 
+      * Pasos procedimentales. 
+    * Mapa de conocimiento. 
+* Formalización 
+  * Marcos Clase. 
+  * Reglas de producción (Incorporar reglas de Drools realizadas en su proyecto). 
+* Implementación 
+  * **Presentación (Incorporar Link de video y Capturas de PowerPoint de presentación)**. 
+  * Capturas de Pantallas (En caso de ser implementadas). 
+  * Escenarios / Casos de prueba. 
+
+**Implementación (Opcional)**
+* **Realizar la implementación de un sistema experto** desarrollado con la herramienta **Drools**.  
+* El prototipo deberá estar acompañado de **pruebas unitarias** realizadas con **Junit** como el ejemplo de clase.   
+* El desarrollo debe ser agregado dentro de la carpeta “Código fuente” del zip.  
+
+**Presentación** 
+Para finalizar este trabajo práctico deberá realizarse una presentación grabada en vídeo subido privado en YouTube de 16 min como máximo que detalle:
+
+1. Breve descripción del problema a resolver. 
+2. Explicar la meta que debe cumplir el sistema 
+3. Explicar Conocimiento fáctico (Solamente Diagrama de conceptos y tabla CAV).  
+4. Explicar Conocimiento táctico (Reglas más importantes). 
+5. Explicar conocimiento estratégico (Árbol de descomposición funcional). 
+6. Pasos Procedimentales. 
+7. Mapa de conocimiento obtenido en la conceptualización. 
+8. Demostrar el funcionamiento del sistema experto desarrollado en Drools explicando y corriendo los casos de prueba **JUnit**. (**Opcional**).
+
+**NOTA**: El **link de acceso al video** debe ser indicado **en la sección Implementación del documento a entregar** y la **presentación PowerPoint** utilizada deben guardarla en **la carpeta presentación**.
