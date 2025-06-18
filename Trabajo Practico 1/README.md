@@ -71,8 +71,9 @@ En una primera versión se desea enfocarse en el bienestar y desarrollo del indi
   * **Acción**: Establecer reuniones periódicas con el supervisor.
 
 ## Consigna
-A partir del enunciado proporcionado elegir un área y profundizar en el tema, realizar la conceptualización que se realice un razonamiento entre 2-3 fases, formalización y desarrollo completo del caso (Opcional). Se deberá entregar un zip con el documento PDF, presentación y el proyecto Drools(Opcional) con el siguiente formato:
-Documentación:
+A partir del enunciado proporcionado elegir un área y profundizar en el tema, realizar la conceptualización que se realice un razonamiento entre 2-3 fases, formalización y desarrollo completo del caso (Opcional). Se deberá entregar un zip con el documento PDF, presentación y el proyecto Drools(Opcional) con el siguiente formato.
+
+### Documentación
 * Nombre del archivo de la documentación: [Numero de materia]_IA_C1_equipo_x_trabajo_practico_INCO.pdf
 * Tamaño: A4.
 * Encabezado: Extremo izquierdo: Inteligencia artificial 2025 C1 y Extremo derecho: Equipo X.
@@ -117,12 +118,12 @@ El **documento** debe ser entregado de manera **grupal** según el cronograma de
   * Capturas de Pantallas (En caso de ser implementadas). 
   * Escenarios / Casos de prueba. 
 
-**Implementación (Opcional)**
+### Implementación (Opcional)
 * **Realizar la implementación de un sistema experto** desarrollado con la herramienta **Drools**.  
 * El prototipo deberá estar acompañado de **pruebas unitarias** realizadas con **Junit** como el ejemplo de clase.   
 * El desarrollo debe ser agregado dentro de la carpeta “Código fuente” del zip.  
 
-**Presentación** 
+### Presentación
 Para finalizar este trabajo práctico deberá realizarse una presentación grabada en vídeo subido privado en YouTube de 16 min como máximo que detalle:
 
 1. Breve descripción del problema a resolver. 
