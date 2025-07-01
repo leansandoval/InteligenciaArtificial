@@ -1,5 +1,5 @@
 # Inteligencia Artificial
-Repositorio para trabajos practicos de la material Inteligencia Artificial de la Universidad Nacional de La Matanza
+Repositorio para trabajos practicos de la material Inteligencia Artificial (3664) de la Universidad Nacional de La Matanza
 
 ## Información de la Asignatura
 * **Materia**: Inteligencia Artificial (3664)
