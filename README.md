@@ -8,7 +8,7 @@ Repositorio para trabajos prácticos de la material Inteligencia Artificial de l
 * **Año**: 2025
 * **Grupo**: 4
 
-## Trayecto Infraestructura
+## Trayecto - Desarrollo de Software
 * **Año académico**: Cuarto Año - Segundo Cuatrimestre
 * **Responsable / Jefe de catedra**: Dr. Ierache Jorge
 * **Carga horaria semanal**: 4 hs
