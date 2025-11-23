@@ -6,6 +6,7 @@ Repositorio para trabajos prácticos de la material Inteligencia Artificial de l
 * **Materia**: Inteligencia Artificial (3664)
 * **Cuatrimestre**: Primer Cuatrimestre
 * **Año**: 2025
+* **Grupo**: 4
 
 ## Trayecto Infraestructura
 * **Año académico**: Cuarto Año - Segundo Cuatrimestre
