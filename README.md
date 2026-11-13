@@ -64,12 +64,20 @@ Paradigma integrador: Entidad percibe, interactúa y realiza acciones en entorno
 ## Módulo 3 - Aprendizaje de Máquina
 Para adaptarse a nuevas circunstancias, detectar y extrapolar nuevos patrones.
 
+![Redes Neuronales](https://scontent.fepa1-1.fna.fbcdn.net/v/t39.30808-6/686508868_895664506822313_8844882929440386744_n.jpg?stp=dst-jpg_tt6&cstp=mx768x1376&ctp=s768x1376&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHItc5ccKlsC88WBr3lOQyvMuwTjz1tXxky7BOPPW1fGX5T7j_estX6_liDwlsMrRv6s65af2MkQXWRSInJZybO&_nc_ohc=oxEktZ_08VAQ7kNvwF6jGdV&_nc_oc=AdqgZRslTuJu8okn9I1b_DG1ojQRKh9R5kwfojGuoB3Lkl-IuOSsjODnuczmdm4k0c7PRm1PFjGkUHDT6gthErWU&_nc_zt=23&_nc_ht=scontent.fepa1-1.fna&_nc_gid=5W9p4iHSotRFSfdwp74mWw&_nc_ss=7b2a8&oh=00_AQT6NeAtUeCzbAJbDq6YsRBqLBSPcf1sbWN51GKkmKbwug&oe=6AFD78C6)
+
+![Tipos de Redes Neuronales](https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/813698152_1359513552871985_3365910312417366720_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODkyMTEyNTYxMDMwNzkwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aKzjuvH0C9kQ7kNvwFlTV2E&_nc_oc=AdrSVPVl7PLPvm3R_PAJIaFYKN0uCdI-4mXYAhziwM8uvEIK88Sz_KuTeCjC1g0cTavXQjreaUvr9KkrDJatEAfT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=EpF9wg6EZvj3f4kgrr6g2w&_nc_ss=7a22e&oh=00_AQTGBdsKby7kaEctIWOJMl7W8-co1gcfjmEYnacMAEGz5g&oe=6AFD6924)
+
 * Introducción a Aprendizaje de Máquina.
 * Aprendizaje Supervisado y no supervisado.
 * Redes Neuronales.
 
 ## Módulo 4 - Búsqueda y Optimización
 Resolución de problemas con heurísticas y metaheuristicas.
+
+![Método Heuristico](https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/486775605_1137050131554911_3478766351967490903_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1096x1435&ctp=s1096x1435&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF75NjrLm4maRnO2s5OKM27A8T8OqFweqwDxPw6oXB6rBsH8sBaJAi_jRYTqwJ5UnzUounJUVGBAMRHk6CgGzyJ&_nc_ohc=Pfsl0DaMaJEQ7kNvwG1aPWW&_nc_oc=AdosooZXvDaszC2P6h7AAMB27Id1WZCtYoVWQ-FdaJwp1vx-YCRiG_PeQVyaHe5oC5OaSyXSDlHQg5Cl11BIheSW&_nc_zt=23&_nc_ht=scontent.faep28-2.fna&_nc_gid=UOyiFv5KFuRwfone-fbVNg&_nc_ss=7b2a8&oh=00_AQQyVMqs4Fkxt8l9ywuujHTebXKngt8FWlISpNmndB2J8w&oe=6AFD52FA)
+
+![Algoritmos Genéticos](https://victoryepes.blogs.upv.es/wp-content/uploads/2026/03/Slide_1772619458725-scaled.png)
 
 * AI como búsqueda de soluciones.
 * Algoritmos de búsqueda: Heurísticos, Metaheurísticos e híbridos.
