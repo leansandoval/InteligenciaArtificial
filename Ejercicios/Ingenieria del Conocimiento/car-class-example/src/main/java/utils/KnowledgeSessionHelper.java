@@ -88,7 +88,6 @@ public class KnowledgeSessionHelper {
 
             @Override
             public void agendaGroupPopped(AgendaGroupPoppedEvent event) {
-                // TODO Auto-generated method stub
             }
         });
 
