@@ -16,5 +16,4 @@ public class DiagnosticoMotor {
 		this.resultadoFinal = resultadoFinal;
 	}
 	
-	
 }

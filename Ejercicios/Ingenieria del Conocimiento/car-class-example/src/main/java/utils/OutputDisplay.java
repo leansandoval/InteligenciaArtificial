@@ -6,4 +6,5 @@ public class OutputDisplay {
 		long time = System.currentTimeMillis();
 		System.out.println("time="+time+"-"+text);
 	}
+	
 }

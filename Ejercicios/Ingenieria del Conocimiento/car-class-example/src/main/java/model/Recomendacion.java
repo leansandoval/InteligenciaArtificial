@@ -17,8 +17,9 @@ public class Recomendacion {
 	
 	@Override
 	public String toString() {
-		return "Diagnosticos[diagnosticoPreliminar=" + diagnosticoPreliminar + ", diagnosticoMotor=" + diagnosticoMotor
-				+ "]\n[Recomendacion final: " + accion + "]";
+		return
+			"Diagnosticos[diagnosticoPreliminar=" + diagnosticoPreliminar + ", diagnosticoMotor=" + diagnosticoMotor + "]\n"
+			+ "[Recomendacion final: " + accion + "]";
 	}
 	
 	public AccionRecomendada getAccion() {

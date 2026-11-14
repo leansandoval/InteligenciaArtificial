@@ -23,11 +23,8 @@ public class KnowledgeSessionHelper {
      * Abre una KieSession stateful con el nombre indicado en kmodule.xml.
      * Agrega un listener que imprime por consola cada regla disparada.
      */
-    public static KieSession getStatefulKnowledgeSessionWithCallback(
-            KieContainer kieContainer, String sessionName) {
-
+    public static KieSession getStatefulKnowledgeSessionWithCallback(KieContainer kieContainer, String sessionName) {
         KieSession session = kieContainer.newKieSession(sessionName);
-
         // Listener que imprime cada regla que se dispara
         session.addEventListener(new org.kie.api.event.rule.DefaultAgendaEventListener() {
             @Override
@@ -35,7 +32,6 @@ public class KnowledgeSessionHelper {
                 System.out.println("  [Regla disparada] " + event.getMatch().getRule().getName());
             }
         });
-
         return session;
     }
 }

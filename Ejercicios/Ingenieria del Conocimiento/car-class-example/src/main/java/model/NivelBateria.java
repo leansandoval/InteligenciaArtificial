@@ -1,6 +1,7 @@
 package model;
 
 public enum NivelBateria {
+
 	NoDeterminado,
 	Bajo,
 	Medio,
@@ -9,4 +10,5 @@ public enum NivelBateria {
 	public  Boolean isa(NivelBateria nivel) {
 		return this.equals(nivel);
 	}
+	
 }

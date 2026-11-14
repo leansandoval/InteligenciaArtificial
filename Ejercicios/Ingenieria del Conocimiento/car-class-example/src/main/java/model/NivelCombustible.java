@@ -1,6 +1,7 @@
 package model;
 
 public enum NivelCombustible {
+
 	NoDeterminado,
 	Vacio,
 	Bajo,
@@ -11,4 +12,5 @@ public enum NivelCombustible {
 	public  Boolean isa(NivelCombustible nivel) {
 		return this.equals(nivel);
 	}
+	
 }

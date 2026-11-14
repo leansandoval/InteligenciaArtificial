@@ -9,4 +9,5 @@ public enum ResultadoDiagnosticoPreliminar {
 	public Boolean isa(ResultadoDiagnosticoPreliminar resultado) {
 		return this.equals(resultado);
 	}
+	
 }

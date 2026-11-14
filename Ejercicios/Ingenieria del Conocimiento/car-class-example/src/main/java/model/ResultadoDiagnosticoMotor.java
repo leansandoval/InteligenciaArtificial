@@ -1,6 +1,7 @@
 package model;
 
 public enum ResultadoDiagnosticoMotor {
+
 	NoDeterminado,
 	TuberiasDeCombustibleSucias,
 	TimingDelMotorDesajustado,
@@ -9,4 +10,5 @@ public enum ResultadoDiagnosticoMotor {
 	public  Boolean isa(ResultadoDiagnosticoMotor resultado) {
 		return this.equals(resultado);
 	}
+	
 }

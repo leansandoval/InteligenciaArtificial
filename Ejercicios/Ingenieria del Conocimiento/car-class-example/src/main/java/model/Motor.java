@@ -4,7 +4,6 @@ public class Motor {
 	
 	Arranque  arranque;
 	Fuerza  fuerza;
-	
 	Boolean presentaExplosiones;
 	Boolean presentaGolpes;
 	

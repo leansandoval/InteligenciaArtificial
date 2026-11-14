@@ -39,7 +39,6 @@ class BackwardTestCases {
 
 	private void prepareKnowledgeSession() {
 		sessionStatefull = KnowledgeSessionHelper.getStatefulKnowledgeSessionWithCallback(kieContainer, K_SESSION_NAME);
-
 		Agenda agenda = sessionStatefull.getAgenda();
 		// El ultimo setFocus queda activo primero; se apilan de ultimo a primero
 		agenda.getAgendaGroup("Prescripcion de falla de arranque de automovil").setFocus();
@@ -80,7 +79,6 @@ class BackwardTestCases {
 		tanque.setCargaLts(20.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
@@ -104,15 +102,12 @@ class BackwardTestCases {
 		bateria.setCargaPorcentual(70.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
 		AccionRecomendada valorEsperado = AccionRecomendada.CargarCombustible;
-
 		assertResults(recomendacion, valorEsperado);
 	}
 
@@ -131,14 +126,11 @@ class BackwardTestCases {
 		tanque.setCargaLts(40.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.LimpiarTuberiasCombustible;
 		assertResults(recomendacion, valorEsperado);
 	}
@@ -158,14 +150,11 @@ class BackwardTestCases {
 		tanque.setCargaLts(40.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.AjustarPuntosDeInyeccion;
 		assertResults(recomendacion, valorEsperado);
 	}
@@ -185,16 +174,13 @@ class BackwardTestCases {
 		tanque.setCargaLts(60.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.AjustarTimingMotor;
-
 		assertResults(recomendacion, valorEsperado);
 	}
+	
 }

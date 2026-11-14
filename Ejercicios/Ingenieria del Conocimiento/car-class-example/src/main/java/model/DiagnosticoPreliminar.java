@@ -1,6 +1,7 @@
 package model;
 
 public class DiagnosticoPreliminar {
+	
 	 public NivelBateria nivelBateria;
 	 public NivelCombustible nivelCombustible;
 	 public ResultadoDiagnosticoPreliminar resultado;

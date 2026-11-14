@@ -71,7 +71,6 @@ class ForwardTestCases {
 		tanque.setCargaLts(20.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
@@ -95,15 +94,12 @@ class ForwardTestCases {
 		bateria.setCargaPorcentual(70.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
 		AccionRecomendada valorEsperado = AccionRecomendada.CargarCombustible;
-
 		assertResults(recomendacion, valorEsperado);
 	}
 
@@ -122,14 +118,11 @@ class ForwardTestCases {
 		tanque.setCargaLts(40.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.LimpiarTuberiasCombustible;
 		assertResults(recomendacion, valorEsperado);
 	}
@@ -149,14 +142,11 @@ class ForwardTestCases {
 		tanque.setCargaLts(40.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.AjustarPuntosDeInyeccion;
 		assertResults(recomendacion, valorEsperado);
 	}
@@ -176,16 +166,13 @@ class ForwardTestCases {
 		tanque.setCargaLts(60.0);
 
 		Automovil automovil = new Automovil(motor, bateria, tanque);
-
 		print(automovil);
-
 		sessionStatefull.insert(automovil);
 		sessionStatefull.fireAllRules();
 
 		Recomendacion recomendacion = automovil.getRecomendacion();
-
 		AccionRecomendada valorEsperado = AccionRecomendada.AjustarTimingMotor;
-
 		assertResults(recomendacion, valorEsperado);
 	}
+	
 }

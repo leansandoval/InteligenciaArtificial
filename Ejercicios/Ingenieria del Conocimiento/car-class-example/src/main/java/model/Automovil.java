@@ -45,4 +45,5 @@ public class Automovil {
 	public void setRecomendacion(Recomendacion recomendacion) {
 		this.recomendacion = recomendacion;
 	}
+	
 }

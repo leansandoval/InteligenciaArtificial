@@ -23,7 +23,6 @@ public class TestCaseUtils {
 		Motor motor = automovil.getMotor();
 		Bateria bateria = automovil.getBateria();
 		TanqueCombustible tanque = automovil.getTanque();
-
 		print();
 		print("Vehiculo");
 		print("Motor: " + motor);
@@ -45,4 +44,5 @@ public class TestCaseUtils {
 		String condition = result.equals(expected) ? "Ok" : "Fallo";
 		print("Caso de prueba: " + condition);
 	}
+	
 }
