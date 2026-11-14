@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.sample</groupId>
+    <artifactId>car-class-example</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>car-class-example</name>
+    <description>Sistema experto de diagnostico de arranque con Drools (forward y backward chaining)</description>
+
+    <properties>
+        <!-- Drools 10 requiere JDK 17+; JDK 21 (Temurin) es el LTS recomendado.
+             10.2.0 tiene una regresion conocida con Java 21 (DummyConstraintBuilder);
+             usamos 10.1.0 que es la ultima version estable verificada con Java 21. -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>21</maven.compiler.release>
+        <version.drools>10.1.0</version.drools>
+        <version.junit>5.12.2</version.junit>
+        <version.logback>1.5.18</version.logback>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.drools</groupId>
+                <artifactId>drools-bom</artifactId>
+                <version>${version.drools}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <dependencies>
+        <!-- Motor tradicional DRL + modelo ejecutable (recomendado desde Drools 8+) -->
+        <dependency>
+            <groupId>org.drools</groupId>
+            <artifactId>drools-engine</artifactId>
+        </dependency>
+        <!-- Obligatorio para parsear META-INF/kmodule.xml; no viene en drools-engine -->
+        <dependency>
+            <groupId>org.drools</groupId>
+            <artifactId>drools-xml-support</artifactId>
+        </dependency>
+        <!-- Motor de expresiones MVEL: necesario para evaluar constraints DRL con metodos -->
+        <dependency>
+            <groupId>org.drools</groupId>
+            <artifactId>drools-mvel</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${version.logback}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>${version.junit}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.14.0</version>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.5.3</version>
+                <configuration>
+                    <failIfNoTests>true</failIfNoTests>
+                    <includes>
+                        <include>**/*Test.java</include>
+                        <include>**/*Tests.java</include>
+                        <include>**/*TestCase.java</include>
+                        <include>**/*TestCases.java</include>
+                    </includes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

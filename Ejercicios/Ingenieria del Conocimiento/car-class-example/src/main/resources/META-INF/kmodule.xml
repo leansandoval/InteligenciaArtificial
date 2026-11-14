@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns="http://www.drools.org/xsd/kmodule">
+    <kbase name="rules" packages="forwardCarRules">
+        <ksession name="kforward-chaining-session"/>
+    </kbase>
+
+    <kbase name="car-backward-rules" packages="backwardCarRules">
+        <ksession name="kbackward-chaining-session"/>
+    </kbase>
+</kmodule>
