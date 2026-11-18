@@ -99,9 +99,9 @@ Conceptualiza y formaliza conocimiento de expertos para sistemas basados en cono
 Paradigma integrador: Entidad percibe, interactúa y realiza acciones en entornos de manera independiente.
 
 <div align="center">
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/705790419_122279749214189612_7045399818996128180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNDg3Njg3NTg0NzY0ODE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9fxJf2Zd4u0Q7kNvwGqWib5&_nc_oc=AdoFgpQI3V3t4jpgz209PVP90Zf7KNYkLR-qSHZB8Uvo9di1gPGS4l4_ZDbZwVWfDsSVY7TU7RuAMzjUbDkV9dxe&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=WMsa08dNQMk4jsRXfHfVdA&_nc_ss=7a22e&oh=00_AQTkK1ZZa0aL0bQTmvHMNAmt_xQtc-UpE3FR4QpoWhIoIQ&oe=6AFD74B3" alt="Agentes de IA" width="450" />
+  <img width="700" alt="Ciclo Percepción-Acción en Agentes Inteligentes" src="https://github.com/user-attachments/assets/1cd3311f-04ec-4cb4-9c80-70b7bd041a2c" />
   <br>
-  <sup><em>Ciclo Percepción-Acción en Agentes Inteligentes</em></sup>
+  <sup><em></em></sup>
   <br><br>
   <img width="700" alt="Sistemas Multiagentes" src="https://github.com/user-attachments/assets/918eb707-1cda-4db8-999c-8279544d967b" />
   <br>
@@ -144,7 +144,7 @@ Para adaptarse a nuevas circunstancias, detectar y extrapolar nuevos patrones.
 Resolución de problemas con heurísticas y metaheurísticas.
 
 <div align="center">
-  <img src="https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/486775605_1137050131554911_3478766351967490903_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1096x1435&ctp=s1096x1435&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF75NjrLm4maRnO2s5OKM27A8T8OqFweqwDxPw6oXB6rBsH8sBaJAi_jRYTqwJ5UnzUounJUVGBAMRHk6CgGzyJ&_nc_ohc=Pfsl0DaMaJEQ7kNvwG1aPWW&_nc_oc=AdosooZXvDaszC2P6h7AAMB27Id1WZCtYoVWQ-FdaJwp1vx-YCRiG_PeQVyaHe5oC5OaSyXSDlHQg5Cl11BIheSW&_nc_zt=23&_nc_ht=scontent.faep28-2.fna&_nc_gid=UOyiFv5KFuRwfone-fbVNg&_nc_ss=7b2a8&oh=00_AQQyVMqs4Fkxt8l9ywuujHTebXKngt8FWlISpNmndB2J8w&oe=6AFD52FA" alt="Método Heurístico" width="400" />
+  <img width="700" alt="Método Heurístico" src="https://github.com/user-attachments/assets/8cb5f6ae-70ab-4785-ba4b-690549d42cd9" />
   <br>
   <sup><em>Estrategias de Búsqueda Heurística en Espacios de Estados</em></sup>
   <br><br>
