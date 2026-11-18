@@ -71,15 +71,15 @@
 Conceptualiza y formaliza conocimiento de expertos para sistemas basados en conocimiento. Dispone de representaciones de conocimiento adicionales. Sirve en contextos que se necesite actuar de manera determinística o bajo incertidumbre basada en conocimiento.
 
 <div align="center">
-  <img src="https://knowgarden.wordpress.com/wp-content/uploads/2015/03/ingenieria-del-conocimiento2.jpg" alt="Gestión del Conocimiento" width="450" />
+  <img width="700" alt="Gestión del Conocimiento" src="https://github.com/user-attachments/assets/e32909c5-8ee0-462d-a4dc-a502c39c2fb6" />
   <br>
   <sup><em>Proceso y arquitectura de la Ingeniería del Conocimiento</em></sup>
   <br><br>
-  <img src="https://starteq.net/wp-content/uploads/2019/11/Imagen-SE-5.png" alt="Estructura de un Sistema Experto" width="450" />
+  <img width="700" alt="Estructura de un Sistema Experto" src="https://github.com/user-attachments/assets/88b36bc2-a4a5-4385-8e42-8a7557826978" />
   <br>
   <sup><em>Componentes e interacción de un Sistema Experto (Base de Conocimiento y Motor de Inferencia)</em></sup>
   <br><br>
-  <img src="https://substackcdn.com/image/fetch/$s_!ePdy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb2f083d-9f6e-42a8-b99b-820666bd447a_1920x1080.png" alt="Knowledge Graphs" width="450" />
+  <img width="700" alt="Knowledge Graphs" src="https://github.com/user-attachments/assets/fde4cc56-1382-48c4-a005-ca464fe762ef" />
   <br>
   <sup><em>Representación semántica mediante Grafos de Conocimiento</em></sup>
 </div>
@@ -103,7 +103,7 @@ Paradigma integrador: Entidad percibe, interactúa y realiza acciones en entorno
   <br>
   <sup><em>Ciclo Percepción-Acción en Agentes Inteligentes</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/857023480_1388895069933833_8211898050057371233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAxMjgzODM0MDU5MTk5NTY5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=1D_lpbzBlEAQ7kNvwG8530p&_nc_oc=AdrFgz_JrgIAl3a-bHNy6mTsp9OmyjB6Hlaffm3-wB0eRrWiz8LYaUGTsdXvRb8qEhhBetgXwMLKbob7X-npp487&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=lNR5YZSI4PRSeKr-9Gh9Cg&_nc_ss=7a22e&oh=00_AQSd71lXW1RM_KHEIAdnOPHfOEmnRLN_8bWI2t_vGInjDQ&oe=6AFD3D1B" alt="Sistemas Multiagentes" width="450" />
+  <img width="700" alt="Sistemas Multiagentes" src="https://github.com/user-attachments/assets/918eb707-1cda-4db8-999c-8279544d967b" />
   <br>
   <sup><em>Coordinación y Comunicación en Sistemas Multiagente (MAS)</em></sup>
 </div>
@@ -123,11 +123,11 @@ Paradigma integrador: Entidad percibe, interactúa y realiza acciones en entorno
 Para adaptarse a nuevas circunstancias, detectar y extrapolar nuevos patrones.
 
 <div align="center">
-  <img src="https://scontent.fepa1-1.fna.fbcdn.net/v/t39.30808-6/686508868_895664506822313_8844882929440386744_n.jpg?stp=dst-jpg_tt6&cstp=mx768x1376&ctp=s768x1376&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHItc5ccKlsC88WBr3lOQyvMuwTjz1tXxky7BOPPW1fGX5T7j_estX6_liDwlsMrRv6s65af2MkQXWRSInJZybO&_nc_ohc=oxEktZ_08VAQ7kNvwF6jGdV&_nc_oc=AdqgZRslTuJu8okn9I1b_DG1ojQRKh9R5kwfojGuoB3Lkl-IuOSsjODnuczmdm4k0c7PRm1PFjGkUHDT6gthErWU&_nc_zt=23&_nc_ht=scontent.fepa1-1.fna&_nc_gid=5W9p4iHSotRFSfdwp74mWw&_nc_ss=7b2a8&oh=00_AQT6NeAtUeCzbAJbDq6YsRBqLBSPcf1sbWN51GKkmKbwug&oe=6AFD78C6" alt="Redes Neuronales" width="400" />
+  <img width="700" alt="Redes Neuronales" src="https://github.com/user-attachments/assets/2b005358-e986-425a-ad2c-0022337d88b6" />
   <br>
   <sup><em>Estructura de Perceptrón Multicapa (MLP)</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/813698152_1359513552871985_3365910312417366720_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=Mzk8ODkyMTEyNTYxMDMwNzkwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=aKzjuvH0C9kQ7kNvwFlTV2E&_nc_oc=AdrSVPVl7PLPvm3R_PAJIaFYKN0uCdI-4mXYAhziwM8uvEIK88Sz_KuTeCjC1g0cTavXQjreaUvr9KkrDJatEAfT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=EpF9wg6EZvj3f4kgrr6g2w&_nc_ss=7a22e&oh=00_AQTGBdsKby7kaEctIWOJMl7W8-co1gcfjmEYnacMAEGz5g&oe=6AFD6924" alt="Tipos de Redes Neuronales" width="450" />
+  <img width="700" alt="Tipos de Redes Neuronales" src="https://github.com/user-attachments/assets/6e060d95-5d24-451a-b51d-7c6fd371e1f3" />
   <br>
   <sup><em>Taxonomía de Arquitecturas de Aprendizaje Profundo</em></sup>
 </div>
@@ -148,7 +148,7 @@ Resolución de problemas con heurísticas y metaheurísticas.
   <br>
   <sup><em>Estrategias de Búsqueda Heurística en Espacios de Estados</em></sup>
   <br><br>
-  <img src="https://victoryepes.blogs.upv.es/wp-content/uploads/2026/03/Slide_1772619458725-scaled.png" alt="Algoritmos Genéticos" width="450" />
+  <img width="700" alt="Algoritmos Genéticos" src="https://github.com/user-attachments/assets/fa6e2bb2-ae82-4d0b-868f-b04a6b7b532c" />
   <br>
   <sup><em>Ciclo Evolutivo: Selección, Cruzamiento y Mutación</em></sup>
 </div>
